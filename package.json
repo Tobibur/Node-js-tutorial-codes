@@ -1,0 +1,20 @@
+{
+  "name": "demo-app",
+  "version": "1.0.0",
+  "description": "Complete Node js guide",
+  "main": "play.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node play.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tobibur/Node-js-tutorial-codes.git"
+  },
+  "author": "Tobibur Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tobibur/Node-js-tutorial-codes/issues"
+  },
+  "homepage": "https://github.com/Tobibur/Node-js-tutorial-codes#readme"
+}
