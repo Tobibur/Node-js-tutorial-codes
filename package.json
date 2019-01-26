@@ -5,7 +5,7 @@
   "main": "play.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node play.js"
+    "start": "nodemon play.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Tobibur/Node-js-tutorial-codes/issues"
   },
-  "homepage": "https://github.com/Tobibur/Node-js-tutorial-codes#readme"
+  "homepage": "https://github.com/Tobibur/Node-js-tutorial-codes#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
 }
